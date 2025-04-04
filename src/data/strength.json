@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Unknown",
+    "color": "#171717"
+  },
+
+  {
+    "text": "Very Weak",
+    "color": "#DE1B1B"
+  },
+
+  {
+    "text": "Weak",
+    "color": "#ED9907"
+  },
+
+  {
+    "text": "Average",
+    "color": "#F5C800"
+  },
+
+  {
+    "text": "Strong",
+    "color": "#34AD6C"
+  },
+  
+  {
+    "text": "Very Strong",
+    "color": "#0FBD2F"
+  }
+]
