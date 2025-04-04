@@ -120,10 +120,6 @@
     {#if result!.feedback.warning.length > 0}
       <p class="indent padding-top-small"><span class="semibold">warning</span>: {result!.feedback.warning}</p>
     {/if}
-
-    {#if result!.password === "correcthorsebatterystaple"}
-      <p class="semibold">P.S. Please don't take a webcomic too literally. This password is fairly common due to its popularity</p>
-    {/if}
   </div>
 {/snippet }
 
